@@ -129,13 +129,13 @@ Example of menu actions:
         library_id = input("Enter user library ID: ")
         user = next((u for u in self.users if u.get_library_id() == library_id), None)
         if user:
-            print(user.display_user_details())
+            print(user.display_details())
         else:
             print("User not found.")
 
     def display_users(self):
         for user in self.users:
-            print(user.display_user_details())
+            print(user.display_details())
 
     def add_author(self):
         name = input("Enter author name: ")
