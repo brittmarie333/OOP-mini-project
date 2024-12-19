@@ -15,9 +15,9 @@ Apply Object-Oriented Programming (OOP) principles in Python to develop an advan
 Create a robust system that allows users to browse, borrow, return, and explore a collection of books while demonstrating your proficiency in OOP principles and the use of modules.
 
 #### Extensions needed: :inbox_tray:
-*python*
-*python debugger*
-*markdown checkboxes*
+*python*,
+*python debugger*, 
+&*markdown checkboxes*
 
 #### Resources used: :mag:
 [GeeksforGeeks](https://www.geeksforgeeks.org/encapsulation-in-python/#encapsulation-in-python)
